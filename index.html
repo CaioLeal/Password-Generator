@@ -4,12 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Password GeneratorS</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/src/css/style.css">
+    <script src="/src/js/script.js" defer></script>
 </head>
 <body>
+        <!-- ##################### DIV da Senha ##################### -->
     <div id="container">
-        <h1>Password GeneratorS</h1>
-        <input type="text" id="password" readonly>
-        <button id="generate">Gerar Senha</button>
+        <img src="/src/imgs/cadeado.png" alt="">
+        <h1 id="title">Password Generator</h1>
+
+        <div id="passworld_container">
+            <span id="password"></span>
+            <button id="copy" onclick="generatePassword()">
+                <i class="fa-solid fa-copy"></i>
+            </button>
+        </div>
+        <!-- ##################### DIV das infos ##################### -->
+
+
     </div>
 </body>
 </html>
