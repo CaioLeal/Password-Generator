@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/1c162b53-e2b6-4081-b3a7-3c4c320a75f0
 
 ### 🔗 Project Link:
 
-[Password Generator]([https://github.com/CaioLeal/Password-Generator)
+[Password Generator]([[https://github.com/CaioLeal/Password-Generator](https://github.com/CaioLeal/Password-Generator))
 
 ---
 
