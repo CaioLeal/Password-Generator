@@ -72,7 +72,7 @@ document.querySelector('#generate').addEventListener('click', function () {
     }
     
     if (!charTypes.length) {
-        message('Selecione pelo menos um tipo de caractere!', 'danger');
+        message('Select at least one character type!', 'danger');
         return;
     }
 
