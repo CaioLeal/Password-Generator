@@ -15,11 +15,11 @@ https://github.com/user-attachments/assets/1c162b53-e2b6-4081-b3a7-3c4c320a75f0
 </div>
 
 ### 🌐 View the project:
-[View Project Online]([https://caioleal.github.io/Password-Generator/)
+[View Project Online](https://caioleal.github.io/Password-Generator/)
 
 ### 🔗 Project Link:
 
-[Password Generator]([(https://github.com/CaioLeal/Password-Generator))
+[Password Generator](https://github.com/CaioLeal/Password-Generator)
 
 ---
 
