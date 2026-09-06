@@ -6,7 +6,7 @@
 
 ### 📍 Why this Project?
 
-This project was born from the desire to create a useful and practical tool for daily life, focusing on digital security. The main goal was to deepen my knowledge in **JavaScript programming logic**, array manipulation, form events (checkboxes and numeric inputs), and creating a modern, responsive interface using CSS variables for a consistent color system. 🛠️1
+This project was born from the desire to create a useful and practical tool for daily life, focusing on digital security. The main goal was to deepen my knowledge in **JavaScript programming logic**, array manipulation, form events (checkboxes and numeric inputs), and creating a modern, responsive interface using CSS variables for a consistent color system. 🛠️
 
 <div align="center">
   
